@@ -7,7 +7,7 @@ variable "key_name" {
 }
 variable "num_of_instance" {
   type    = number
-  default = 1
+  default = 2
 }
 variable "tag" {
   type    = string
